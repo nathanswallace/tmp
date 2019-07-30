@@ -20,7 +20,7 @@ ul li {
 }
 
 #wrapper {
-	padding:2px
+	padding:0px
 }
 
 #wrapper[style*="padding: 20px"] {
