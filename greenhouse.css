@@ -40,6 +40,10 @@ ul li {
 	color: #003262;	
 }
 
+.opening a:hover {
+	color: #ffcb05;	
+}
+
 #app_body {
 }
 
