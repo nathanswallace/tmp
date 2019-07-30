@@ -56,6 +56,21 @@ ul li {
 }
 .button {
 }
+
+.button:not(.btn-light):not(.light-bg-btn):not(.outline-btn):not(.outline-bg-btn):not(.btn-custom-style) {
+  background-color: #ffcb05;
+  background-image: none;
+  background: #ffcb05;
+  background: -webkit-linear-gradient("");
+  background: linear-gradient("");
+}
+.button:not(.btn-light):not(.light-bg-btn):not(.outline-btn):not(.outline-bg-btn):not(.btn-custom-style):hover {
+  background: none;
+  background: #003262;
+  background: -webkit-linear-gradient("");
+  background: linear-gradient("");
+}
+
 a, input[type='button'].link-like-button{
 }
 
