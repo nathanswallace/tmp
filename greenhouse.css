@@ -23,9 +23,14 @@ ul li {
 	padding:2px
 }
 
+#wrapper[style*="padding: 20px"] {
+	padding:2px !important; 
+}
+
 #wrapper h1 {
 	display:none
 }
+
 
 #board_title {
 	display:none
