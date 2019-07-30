@@ -40,6 +40,10 @@ ul li {
 	color: #003262;	
 }
 
+.opening {
+	text-align: center;
+}
+
 .opening a:hover {
 	color: #ffcb05;	
 }
