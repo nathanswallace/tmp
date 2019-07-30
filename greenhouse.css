@@ -31,6 +31,9 @@ ul li {
 	display:none
 }
 
+#wrapper h3 {
+	text-align: center;
+}
 
 #board_title {
 	display:none
