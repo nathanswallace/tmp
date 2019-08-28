@@ -51,6 +51,10 @@ ul li {
 	color: #ffcb05;	
 }
 
+.filter-container {
+	text-align: center;
+}
+
 #app_body {
 }
 
