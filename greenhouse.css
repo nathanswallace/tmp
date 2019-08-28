@@ -52,7 +52,7 @@ ul li {
 }
 
 .filter-container {
-	text-align: center;
+	display: none;
 }
 
 #app_body {
