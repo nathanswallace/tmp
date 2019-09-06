@@ -28,7 +28,7 @@ ul li {
 }
 
 #wrapper h1 {
-	text-align: center;
+	display:none;
 }
 
 #wrapper h3 {
