@@ -28,7 +28,7 @@ ul li {
 }
 
 #wrapper h1 {
-	display:none
+	text-align: center;
 }
 
 #wrapper h3 {
@@ -41,10 +41,6 @@ ul li {
 
 #board_title {
 	display:none
-}
-
-#app_title {
-	text-align: center;
 }
 
 .opening a {
