@@ -32,7 +32,7 @@ ul li {
 }
 
 #wrapper h3 {
-	text-align: center;
+	display:none;
 }
 
 #wrapper h4 {
