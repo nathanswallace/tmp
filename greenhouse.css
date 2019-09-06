@@ -43,6 +43,10 @@ ul li {
 	display:none
 }
 
+#app_title {
+	text-align: center;
+}
+
 .opening a {
 	color: #003262;	
 }
