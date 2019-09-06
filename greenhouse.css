@@ -35,6 +35,10 @@ ul li {
 	text-align: center;
 }
 
+#wrapper h4 {
+	display:none
+}
+
 #board_title {
 	display:none
 }
