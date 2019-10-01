@@ -23,10 +23,13 @@ ul li {
 	display:none;
 }
 
-#main #wrapper #logo, h1 {
+#main #wrapper h1 {
 	display:none;
 }
 
+#main,#app_body,#header, .app-title, h1 {
+	display:block; 
+}
 
 #wrapper {
 	padding:0px
