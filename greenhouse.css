@@ -19,6 +19,14 @@ ul li {
 
 }
 
+#main #wrapper #logo img {
+	display:none;
+}
+
+#main #wrapper #logo, h1 {
+	display:none;
+}
+
 
 #wrapper {
 	padding:0px
