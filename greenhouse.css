@@ -69,6 +69,7 @@ ul li {
 .heading {
 }
 .company-name {
+	display:none;
 }
 .field label {
 }
