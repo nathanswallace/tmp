@@ -23,8 +23,8 @@ ul li {
 	padding:0px
 }
 
-#wrapper[style*="padding: 20px"] {
-	padding:2px !important; 
+#wrapper[style*="padding: 30px"] {
+	padding:3px !important; 
 }
 
 #wrapper h1 {
