@@ -37,6 +37,7 @@ ul li {
 
 #wrapper[style*="padding:30px"] {
 	padding:3px !important; 
+	margin-left: 0px;
 }
 
 #wrapper h1 {
